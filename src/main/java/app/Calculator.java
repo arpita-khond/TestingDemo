@@ -4,6 +4,10 @@ public class Calculator {
 	//this are changes made by user b
 	CalculatorService service;
 	
+	public void test()
+	{
+		
+	}
 	public Calculator(CalculatorService service)
 	{
 		this.service=service;
