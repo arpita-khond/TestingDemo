@@ -15,6 +15,7 @@ import app.CalculatorService;
 
 public class CalculatorTest {
     Calculator calc;
+    //nice changes S
     CalculatorService service;
     @Before
     public void setUp()
