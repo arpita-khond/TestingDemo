@@ -1,6 +1,7 @@
 package app;
 
 public class Book {
+	//changes made by user b
 	private int isbn;
 	private String title;
 	private String category;
