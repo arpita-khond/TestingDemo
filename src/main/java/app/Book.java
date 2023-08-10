@@ -11,6 +11,9 @@ public class Book {
 		this.category = category;
 	}
 	
+	public int equals() {
+		return 1;
+	}
 	public int getIsbn()
 	{
 		return isbn;
