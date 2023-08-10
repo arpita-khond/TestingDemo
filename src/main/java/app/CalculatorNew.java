@@ -6,6 +6,9 @@ public class CalculatorNew {
 		//test2 addded by user B
 	}
 
+	public void test1() {
+		//this is for merge conflict
+	}
 	public int substract(int i, int j)
 	{
 		if(i > j)
