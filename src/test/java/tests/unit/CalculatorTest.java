@@ -18,7 +18,8 @@ public class CalculatorTest {
     CalculatorService service;
     @Before
     public void setUp()
-    {
+    {	
+    	//changes done for git query
     	//mock() method will create a mock object for calculator service
     	service = Mockito.mock(CalculatorService.class);
     	calc = new Calculator(service);
