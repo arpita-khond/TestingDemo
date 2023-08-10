@@ -1,6 +1,7 @@
 package app;
 
 public class Calculator {
+	//this are changes made by user b
 	CalculatorService service;
 	
 	public Calculator(CalculatorService service)
